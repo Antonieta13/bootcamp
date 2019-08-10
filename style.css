@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+
+}
+
+header{
+    background-color: white;
+    height: 72px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center
+    }
+
+
+    .header nav{
+        display: flex;
+        width: 100%;
+        justify-content: space-around;     
+    }
